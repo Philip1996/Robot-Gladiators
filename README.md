@@ -1,9 +1,16 @@
 # Robot-Gladiators
+
 ## Decription
-### Web Technology
-CSS
-HTML
-Javascript
-###Creator
-Made with #10084 by Philip
-### Website
+
+## Web Technology
+<ul>
+  <li> CSS </li>
+  <li>HTML</li>
+  <li>Javascript</li>
+</ul>
+
+##  Creator
+  
+Made by Philip
+  
+## Website
